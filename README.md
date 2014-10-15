@@ -1,7 +1,7 @@
-###Práctica 3:Autentificación con Google
+##Práctica 3:Autentificación con Google
 
 
-##Ejecutar en local
+###Ejecutar en local
 
 Podremos ejecutar la aplicación en local con el siguiente comando:
 
@@ -16,9 +16,8 @@ http://localhost:9292
 http://appgoogleoauth.herokuapp.com/
 
 
-#Aarón José Vera Cerdeña
-#Sistemas y Tecnologías Web
-
+Aarón José Vera Cerdeña
+Sistemas y Tecnologías Web
 
 
 See these links:
